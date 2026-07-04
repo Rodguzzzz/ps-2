@@ -6,7 +6,7 @@ source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,json
 version = 1.0
 
-requirements = python3==3.11.0,kivy==2.3.0,pillow,pyjnius
+requirements = python3,kivy==2.3.0,pillow
 
 orientation = landscape
 fullscreen = 0
